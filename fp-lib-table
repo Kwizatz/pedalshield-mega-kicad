@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name lib_psuno)(type KiCad)(uri "D:/ElectroSmash Backup Dec16/pedalshield_UNO/hardware/KiCaD/libs")(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri "D:/ElectroSmash Backup Dec16/pedalshield_UNO/hardware/KiCaD/artwork")(options "")(descr ""))
+  (lib (name sunny-logo)(type KiCad)(uri "D:/ElectroSmash Backup Dec16/pedalshield_UNO/hardware/KiCaD - rev. B/artwork")(options "")(descr ""))
+  (lib (name octopussy)(type KiCad)(uri "D:/ElectroSmash Backup Dec16/pedalshield_UNO/hardware/KiCaD - rev. C/artwork")(options "")(descr ""))
+  (lib (name new_logo)(type KiCad)(uri "D:/ElectroSmash Backup Dec16/pedalshield_UNO/hardware/KiCaD - rev. D/artwork")(options "")(descr ""))
+  (lib (name furbi_resized)(type KiCad)(uri "D:/ElectroSmash Backup Dec16l/pedalshield_MEGA/KiCaD/artwork")(options "")(descr ""))
+)
