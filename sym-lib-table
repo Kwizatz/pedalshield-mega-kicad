@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "pedalSHIELD_mega-rescue")(type "KiCad")(uri "${KIPRJMOD}/pedalSHIELD_mega-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "arduino_shieldsNCL")(type "KiCad")(uri "${KIPRJMOD}/libs/Arduino_Shield_Modules_for_KiCad_V3/arduino_shieldsNCL.kicad_sym")(options "")(descr ""))
+  (lib (name "3pdt")(type "KiCad")(uri "${KIPRJMOD}/libs/3pdt.kicad_sym")(options "")(descr ""))
+  (lib (name "pedal-shield-cache")(type "KiCad")(uri "${KIPRJMOD}/libs/pedal shield-cache.kicad_sym")(options "")(descr ""))
+)
